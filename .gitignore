@@ -1,0 +1,9 @@
+/.idea
+*.iml
+/log4j_error
+/log4j
+/target
+/.settings
+.DS_Store
+node_modules/
+npm-debug.log
